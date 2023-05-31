@@ -1,1 +1,2 @@
 # CryptoInsightsDashboard
+Gain valuable insights and predict cryptocurrency trends with ease. This repository features a user-friendly dashboard created using Power BI, allowing you to explore and visualize cryptocurrency data effortlessly. Stay ahead of the market by leveraging powerful analytics tools and make informed decisions based on accurate forecasts. Dive into the world of cryptocurrencies and uncover actionable insights with PowerBI Crypto Forecast.
